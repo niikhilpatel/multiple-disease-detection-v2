@@ -10,7 +10,7 @@
 
 <br><br><br>
 # Demo
-<a href='https://gmayuri1904-multiple-disease-detection-app-e09xhm.streamlit.app/'>Live app</a>
+<!-- <a href='https://gmayuri1904-multiple-disease-detection-app-e09xhm.streamlit.app/'>Live app</a> -->
 
 
 # Dataset Used
