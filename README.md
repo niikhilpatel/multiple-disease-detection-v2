@@ -12,7 +12,7 @@
 # Demo
 <!-- <a href='https://gmayuri1904-multiple-disease-detection-app-e09xhm.streamlit.app/'>Live app</a> -->
 
-
+<!-- 
 # Dataset Used
 1. [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
 2. [Diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database): Pima Indian Diabetes Dataset
@@ -34,4 +34,4 @@
 3. Heart
 4. Kidney
 5. Liver
-6. Parkinson's
+6. Parkinson's -->
