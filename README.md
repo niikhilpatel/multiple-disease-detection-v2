@@ -5,7 +5,8 @@
 
 
 
-PPT and Soft copy 
+PPT and Soft copy (folder attached)
+
 
 
 <br><br><br>
