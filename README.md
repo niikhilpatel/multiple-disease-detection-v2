@@ -28,7 +28,7 @@ Submit
  2. Streamlit
  3. Pickle
  
- This Project is reployed on heroku.
+ This Project is deployed on heroku.
  
  # Tests Available:
 1. Breast Cancer
